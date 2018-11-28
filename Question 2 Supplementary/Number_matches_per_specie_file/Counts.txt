@@ -1,0 +1,8 @@
+Arthrobacter.fasta.out 0
+Bacillus.fasta.out 1
+Clostridium.fasta.out 0
+Flavobacterium.fasta.out 1
+Limnohabitans.fasta.out 1
+Rhizobium.fasta.out 0
+Roseobacter.fasta.out 1
+Verrucomicrobia.fasta.out 0

@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      transporterHMM.txt
+# Target file:     Rhizobium.fasta
+# Option settings: ../hmmsearch --tblout Rhizobium.fasta.out transporterHMM.txt Rhizobium.fasta 
+# Current dir:     /afs/nd.edu/user15/isoto/local/bin/proteomes
+# Date:            Mon Nov 26 16:38:35 2018
+# [ok]
